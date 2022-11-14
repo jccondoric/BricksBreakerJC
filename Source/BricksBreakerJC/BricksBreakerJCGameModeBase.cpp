@@ -25,7 +25,7 @@ void ABricksBreakerJCGameModeBase::BeginPlay()
 		if (c <= limiteCreate - 1) {
 			APaddle* SpawnedPaddle = GetWorld()->SpawnActor<APaddle>(APaddle::StaticClass());
 			Paddle = SpawnedPaddle;
-			GEngine->AddOnScreenDebugMessage(-1, 15.f, FColor::Yellow, FString::Printf(TEXT("%s has been created"), *Paddle->GetName()));
+			/*GEngine->AddOnScreenDebugMessage(-1, 15.f, FColor::Yellow, FString::Printf(TEXT("%s has been created"), *Paddle->GetName()));*/
 		}
 	}
 	
