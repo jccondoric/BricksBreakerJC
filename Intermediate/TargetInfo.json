@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BricksBreakerJC",
+			"Path": "D:\\2022.2\\Primer Parcial\\BricksBreakerJC\\Source\\BricksBreakerJC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BricksBreakerJCEditor",
+			"Path": "D:\\2022.2\\Primer Parcial\\BricksBreakerJC\\Source\\BricksBreakerJCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BricksBreakerJC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{45AE9153-CAAD-46F2-8D50-5A19A3B8D73F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BricksBreakerJC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BricksBreakerJCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DAC91A9B-091F-475A-94C4-76F03328182B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BricksBreakerJC">
+      <UniqueIdentifier>{DBDE5889-6E3F-4903-81F6-0C684CD967FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BricksBreakerJC\Brick.cpp">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreakerJC\Brick.h">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\BricksBreakerJC\BricksBreakerJC.Build.cs">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BricksBreakerJC\BricksBreakerJC.cpp">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreakerJC\BricksBreakerJC.h">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BricksBreakerJC\BricksBreakerJCGameModeBase.cpp">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreakerJC\BricksBreakerJCGameModeBase.h">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BricksBreakerJC\Paddle.cpp">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreakerJC\Paddle.h">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BricksBreakerJC\PaddlePlayerController.cpp">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BricksBreakerJC\PaddlePlayerController.h">
+      <Filter>Source\BricksBreakerJC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

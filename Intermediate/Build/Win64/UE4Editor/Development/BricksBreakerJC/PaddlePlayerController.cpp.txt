@@ -1,0 +1,16 @@
+D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\Definitions.BricksBreakerJC.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Source\BricksBreakerJC\PaddlePlayerController.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Inc\BricksBreakerJC\PaddlePlayerController.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Source\BricksBreakerJC\Paddle.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Inc\BricksBreakerJC\Paddle.generated.h

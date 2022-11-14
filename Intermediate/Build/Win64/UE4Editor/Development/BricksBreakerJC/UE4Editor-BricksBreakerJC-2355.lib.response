@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BricksBreakerJC-2355.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\BricksBreakerJCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\BricksBreakerJC.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\BricksBreakerJCGameModeBase.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\Paddle.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\PaddlePlayerController.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\BricksBreakerJC.init.gen.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\BricksBreakerJCGameModeBase.gen.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\Paddle.gen.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\PaddlePlayerController.gen.cpp.obj"
+"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\Default.rc2.res"
+/OUT:"D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\UE4Editor-BricksBreakerJC-2355.lib"

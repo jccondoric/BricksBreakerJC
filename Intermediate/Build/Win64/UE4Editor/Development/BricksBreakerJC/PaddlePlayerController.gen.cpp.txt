@@ -1,0 +1,5 @@
+D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\Definitions.BricksBreakerJC.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Source\BricksBreakerJC/PaddlePlayerController.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Inc\BricksBreakerJC\PaddlePlayerController.generated.h

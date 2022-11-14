@@ -1,0 +1,3 @@
+D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Development\BricksBreakerJC\Definitions.BricksBreakerJC.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Source\BricksBreakerJC\Brick.h
+D:\2022.2\Primer Parcial\BricksBreakerJC\Intermediate\Build\Win64\UE4Editor\Inc\BricksBreakerJC\Brick.generated.h
