@@ -35,3 +35,4 @@ void ABricksBreakerJCGameModeBase::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 }
+
